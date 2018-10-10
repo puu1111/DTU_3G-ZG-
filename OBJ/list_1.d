@@ -1,0 +1,11 @@
+..\obj\list_1.o: ..\LWM2M\list.c
+..\obj\list_1.o: ..\LWM2M\internals.h
+..\obj\list_1.o: ..\LWM2M\liblwm2m.h
+..\obj\list_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\list_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\list_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\list_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+..\obj\list_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\list_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\list_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\list_1.o: ..\LWM2M\er-coap-13/er-coap-13.h

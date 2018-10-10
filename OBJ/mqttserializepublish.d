@@ -1,0 +1,11 @@
+..\obj\mqttserializepublish.o: ..\paho\MQTTPacket\MQTTSerializePublish.c
+..\obj\mqttserializepublish.o: ..\paho\MQTTPacket\MQTTPacket.h
+..\obj\mqttserializepublish.o: ..\paho\MQTTPacket\MQTTConnect.h
+..\obj\mqttserializepublish.o: ..\paho\MQTTPacket\MQTTPublish.h
+..\obj\mqttserializepublish.o: ..\paho\MQTTPacket\MQTTSubscribe.h
+..\obj\mqttserializepublish.o: ..\paho\MQTTPacket\MQTTUnsubscribe.h
+..\obj\mqttserializepublish.o: ..\paho\MQTTPacket\MQTTFormat.h
+..\obj\mqttserializepublish.o: ..\paho\MQTTPacket\StackTrace.h
+..\obj\mqttserializepublish.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\mqttserializepublish.o: ..\paho\MQTTPacket\MQTTPacket.h
+..\obj\mqttserializepublish.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

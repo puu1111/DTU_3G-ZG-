@@ -1,0 +1,11 @@
+.\out\mqttpacket.o: ..\paho\MQTTPacket\MQTTPacket.c
+.\out\mqttpacket.o: ..\paho\MQTTPacket\StackTrace.h
+.\out\mqttpacket.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\out\mqttpacket.o: ..\paho\MQTTPacket\MQTTPacket.h
+.\out\mqttpacket.o: ..\paho\MQTTPacket\MQTTConnect.h
+.\out\mqttpacket.o: ..\paho\MQTTPacket\MQTTPublish.h
+.\out\mqttpacket.o: ..\paho\MQTTPacket\MQTTSubscribe.h
+.\out\mqttpacket.o: ..\paho\MQTTPacket\MQTTUnsubscribe.h
+.\out\mqttpacket.o: ..\paho\MQTTPacket\MQTTFormat.h
+.\out\mqttpacket.o: ..\paho\MQTTPacket\MQTTPacket.h
+.\out\mqttpacket.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
